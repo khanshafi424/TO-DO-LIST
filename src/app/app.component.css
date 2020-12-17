@@ -1,0 +1,32 @@
+h1 {
+  
+    background-color: linear-gradient(red, yellow, green);
+    font-style: italic;
+}
+.input-group {
+    margin-top: 80px;
+}
+
+button {
+    border-radius: 10px;
+    
+}
+
+ul  {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+li {
+    background-color: aquamarine;
+    margin: 5;
+}
+
+.container {
+    margin-top: 80px;
+    width: 600px;
+    padding: 50px;
+    box-shadow:  5px 10px 20px green;
+}
+
